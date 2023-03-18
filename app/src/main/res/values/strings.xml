@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">UnitConvertor</string>
+    <string-array name = "Length">
+        <item>Foot</item>
+        <item>Centimetre</item>
+        <item>Kilometre</item>
+        <item>Metre</item>
+        <item>Mile</item>
+        <item>Inches</item>
+    </string-array>
+    <string-array name = "Area">
+        <item>Acre</item>
+        <item>Hectare</item>
+        <item>SquareKilometre</item>
+        <item>SquareMetre</item>
+        <item>SquareMile</item>
+        <item>SquareInches</item>
+    </string-array>
+    <string-array name = "Data">
+        <item>Byte</item>
+        <item>kiloByte</item>
+        <item>MegaByte</item>
+        <item>GigaByte</item>
+        <item>TeraByte</item>
+    </string-array>
+    <string-array name = "Temperature">
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+        <item>Kelvin</item>
+    </string-array>
+</resources>
